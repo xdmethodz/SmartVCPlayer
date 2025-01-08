@@ -110,7 +110,7 @@ This setup should help manage YouTube content access efficiently without encount
 
 ```sh
 git clone https://github.com/xdmethodz/SmartUtil
-cd SmartUTIL
+cd SmartUtil
 pip3 install -r requirements.txt
 python3 main.py
 ```
