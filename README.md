@@ -112,6 +112,7 @@ This setup should help manage YouTube content access efficiently without encount
 git clone https://github.com/xdmethodz/SmartUTIL/
 cd SmartUTIL
 pip3 install -r requirements.txt
+screen -S screenname
 python3 main.py
 ```
 
