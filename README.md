@@ -112,9 +112,6 @@ This setup should help manage YouTube content access efficiently without encount
 git clone https://github.com/xdmethodz/SmartUTIL/
 cd SmartUTIL
 pip3 install -r requirements.txt
-# install node js
-sudo bash install_node.sh
-# <Create Variables appropriately (.env [optional])> Or Directly Edit Config.py
 python3 main.py
 ```
 
