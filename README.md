@@ -109,7 +109,7 @@ This setup should help manage YouTube content access efficiently without encount
 ## Deploy to VPS
 
 ```sh
-git clone https://github.com/xdmethodz/SmartUTIL/
+git clone https://github.com/xdmethodz/SmartUtil
 cd SmartUTIL
 pip3 install -r requirements.txt
 python3 main.py
